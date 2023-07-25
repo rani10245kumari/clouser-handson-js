@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(193, 168, 216);
+}
+
+pre {
+    font-size: 20px;
+    color: rgb(74, 12, 131);
+}
+
+p {
+    font-size: 18px;
+    font-style: italic;
+    color: rgb(37, 18, 36);
+    word-spacing: 10px;
+}
+
+h3 {
+    font-size: 22px;
+
+}
+
+h4 {
+    font-size: 20px;
+    color: brown;
+}
